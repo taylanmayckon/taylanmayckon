@@ -1,6 +1,7 @@
 ## Hey there, I'm Taylan Mayckon! Here's a quick overview of me.
 
-- Currently developing the F-Carranca Aerodesign team's Embedded Telemetry System
+- Currently a phase 1 student at EmbarcaTech
+- Former developer of the F-Carranca Aerodesign telemetry system
 - Founding member of the new robotics team at UNIVASF, Caatronics 
 - Computer Engineering Student at UNIVASF
 - I have extensive knowledge with Microcontrolers and Raspberry Pi
