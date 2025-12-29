@@ -50,8 +50,7 @@
 </div>
 
 ### Recent Projects 
-- **[Webhook for Chatbot](https://github.com/taylanmayckon/Webhook-Dialogflow)**: A Flask application for a Chatbot Webhook linked to Dialogflow. It handles the registration of users interested in promotions and periodically sends active promotions.
-- **[SmartPark](https://github.com/taylanmayckon/SmartPark)**: A SwiftUI application that helps users easily find and reserve available parking spots, similar to AirBNB but for cars.
+- **[InstElet-10DoF](https://github.com/taylanmayckon/InstElet-10DoF)**: A data acquisition and visualization tool for 10-DOF inertial measurement units (IMUs), designed for electronic instrumentation.
 
 ## Languages
 - Portuguese (Native)
